@@ -1,6 +1,6 @@
 ## Olá! Sejam Bem-vindos!🦜
 
-### Meu nome é Bianca 🌟
+### *Meu nome é Bianca* 🌟
 
 - Estou estudando na Alura;
 - Estou me desenvolvendo na linguagem JavaScript;
