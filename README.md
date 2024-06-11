@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Sejam bem-vindos!🦜
 
 <!--
 **etoilebibs/etoilebibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
